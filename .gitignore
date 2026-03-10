@@ -1,0 +1,23 @@
+# Secrets & credentials — never commit these
+.env
+credentials.json
+token.json
+
+# Stats file — may contain real email addresses
+stats.json
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local editor and logs
+.claude/
+*.log
