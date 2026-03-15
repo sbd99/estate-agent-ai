@@ -2,7 +2,7 @@
 
 An AI-powered email automation system for estate agents. It monitors a Gmail inbox, filters out spam and promotional mail, generates personalised replies using Claude, sends them automatically, and tracks outcomes on a live web dashboard.
 
-![Dashboard Screenshot](screenshot.png)
+
 
 ---
 
